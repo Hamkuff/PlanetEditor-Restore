@@ -1,3 +1,5 @@
+<img src="githubtitle.png" width="200" align="center"/>
+
 # PlanetEditor-Restore
 
 Mod that brings back the Planet Editor from the Feb 2008 build with all, or at least stable, tools.
