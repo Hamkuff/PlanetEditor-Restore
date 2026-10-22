@@ -1,4 +1,6 @@
-<img src="githubtitle.png" width="200" align="center"/>
+<p align="center">
+  <img src="githubtitle.png" width="200"/>
+</p>
 
 # PlanetEditor-Restore
 
