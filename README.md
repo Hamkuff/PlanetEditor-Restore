@@ -23,14 +23,13 @@ The point of the mod is to give players the ability to create planets not just f
 With this mod, the Planet Editor is a full-fledged part of the editor system, letting you create four types of planets (only four for now. Support for vanilla without GA is coming closer to release):
 1. Planet - standard planet for colonization;
 2. Mission Planet - planet with the ability to create 2 missions: derelict ship, ruined civilization;
-3. Homeworld - starting planet you can actually play on (SERIOUS BUGS MIGHT POP UP WHILE PLAYING ON THESE. USE AT YOUR OWN RISK);
+3. Homeworld - starting planet you can actually play on (bugged. Possible issues with generating skeletons, nests, as well as cities and tribes);
 4. Template Planet - templates for the Adventure Editor.
 
 
 # Plans for the future.
 
-Right now I'm polishing the UI and adding separate UI selection via .sporemod instead of through the debug menu in options.
-After the UI I wanna do and polish the following:
+In a proper release, if it actually comes out and I don't lose my motivation, I want to add the following:
 1. Adding rings, making for some dope-looking planet types;
 2. Stable terrain changes when swapping terrain indices or similar tools in the Space Stage;
 3. The ability to create gas giants (right now this is more on the concept side and probably won't be done even after release);
